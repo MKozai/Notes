@@ -1,2 +1,2 @@
 # Notes
-A repository for expository articles and notes
+A repository for self-authored review articles and notes
