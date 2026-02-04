@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18479676.svg)](https://doi.org/10.5281/zenodo.18479676)
+
 # Notes
 A repository for self-authored review articles and notes
 
