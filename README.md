@@ -2,7 +2,7 @@
 
 A repository for self-authored review articles and notes
 
-## Review on cosmic-ray anisotropy and muon detector data analysis
+## 宇宙線異方性とミューオン計データ解析の解説<br>Review on cosmic-ray anisotropy and muon detector data analysis
 ### [muon_detector_review.pdf](https://mkozai.github.io/Notes/muon_detector_review.pdf)
 
 **Introduction**  
